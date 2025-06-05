@@ -1,0 +1,4 @@
+python
+md hello_world 
+cd hello-world
+code .
